@@ -1,0 +1,1 @@
+# webpack-var-library-alias-plugin
