@@ -3,9 +3,6 @@
     "version": "1.0.0",
     "description": "Adds alias to var library built by webpack",
     "main": "index.js",
-    "dependencies": {
-        "schema-utils": "^1.0.0"
-    },
     "devDependencies": {
         "eslint": "^7.16.0",
         "eslint-config-prettier": "^7.1.0",
