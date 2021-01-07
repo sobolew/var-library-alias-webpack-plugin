@@ -1,6 +1,6 @@
 {
     "name": "var-library-alias-webpack-plugin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Adds alias to var library built by webpack",
     "main": "index.js",
     "devDependencies": {
